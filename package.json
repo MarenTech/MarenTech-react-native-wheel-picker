@@ -27,6 +27,6 @@
     "react-native": ">=0.57"
   },
   "dependencies": {
-    "@react-native-picker/picker": "^1.9.4"
+    "@react-native-picker/picker": "^2.2.1"
   }
 }
